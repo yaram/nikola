@@ -1047,6 +1047,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)
+# (translatable)
 # MARKDOWN_EXTENSION_CONFIGS = {}
 
 
